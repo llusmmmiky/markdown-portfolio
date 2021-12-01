@@ -7,3 +7,4 @@
 ### Food 🥘
 1. fried egg 🍳
 2. fried potatoes 🥔
+3. meat 🍖
