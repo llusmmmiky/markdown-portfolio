@@ -1,22 +1,22 @@
 <details>
-<summary>### Story<summary>
+  <summary>### Story<summary>
    
-1. first 🍀
+  1. first 🍀
    
-2. why 💮
+  2. why 💮
    
-3. just 🌞
+  3. just 🌞
    
-   1. love 🌔
+     1. love 🌔
    
-   2. predestined relationship 🐈‍⬛
+     2. predestined relationship 🐈‍⬛
 </details>
 <details>   
-<summary>### Food 🥘<summary>
+  <summary>### Food 🥘<summary>
    
-1. fried egg 🍳
+  1. fried egg 🍳
    
-2. fried potatoes 🥔
+  2. fried potatoes 🥔
    
-3. meat 🍖
+  3. meat 🍖
 </details>
