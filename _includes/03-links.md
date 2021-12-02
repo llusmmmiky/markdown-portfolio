@@ -1,1 +1,1 @@
-[GitHub](http://github.com)
+[搜书](https://www.jiumodiary.com/)
