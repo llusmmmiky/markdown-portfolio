@@ -1,21 +1,9 @@
 ---
-layout: default
+title: "Welcome to my blog"
 ---
 
-{% include 01-name.md %}
+I'm glad you are here. I plan to talk about what i want to do and what i can do...
 
-<br>
+I want something better than what is but what is fled in an instant
 
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+Don't care what other people do,just do what you want to do
